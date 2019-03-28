@@ -23,6 +23,14 @@ $(document).ready(function(){
 });
 
 
+function ObjectOriented(){
+
+   var ins = {};
+   ins.first = first
+   return ins;
+}
+
+
   
 
 
